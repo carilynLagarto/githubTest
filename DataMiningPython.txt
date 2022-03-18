@@ -1,0 +1,49 @@
+Data Mining for Beginners | Data Mining Full course | Learn Data Mining in 10 Hours | Great Learning
+
+Arithmetic -  +-*/
+Assignment - =
+Comparison - < > <= >=
+Logical - and or not
+Identity - is, is not
+Membership - item in x = True
+
+Google colab
+
+10//6 = 1 (floor division)
+
+print(True and False) = False
+
+Data type (int, float, string, bool)(complex(1+1j))
+list
+dict
+set(no repetition, no indexing)
+tuple(cannot change)
+
+all()
+bin()
+range(start,stop,movement)
+
+def printAllNames(*names):
+	print(names)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
